@@ -27,5 +27,3 @@ CREATE TABLE vine_table (
   vine TEXT,
   verified_purchase TEXT
 );
-
-select * from products_table
